@@ -1,7 +1,7 @@
 
 ## 👋 Hey there! I'm Olivia
 
-💡 &nbsp;I like to explore new technologies and develop software solutions.\
+💡 &nbsp;&nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying at Bandung Institute of Technology.\
 🌱 &nbsp;I'm on track for learning more about Web Development, Artificial Intelligence, and Machine Learning.
 
@@ -14,9 +14,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)\
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)&nbsp;
 
 
 ### 📇 Contact Me
