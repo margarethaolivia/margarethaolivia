@@ -20,6 +20,6 @@
 
 
 ### 📇 Contact Me
-[![Linkedin Badge](https://img.shields.io/badge/-margarethaoliviaharyono-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/margaretha-olivia-haryono/)](https://www.linkedin.com/in/margaretha-olivia-haryono/)
+[![Linkedin Badge](https://img.shields.io/badge/-margarethaolivia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/margarethaolivia/)](https://www.linkedin.com/in/margaretha-olivia-haryono/)
 [![Gmail Badge](https://img.shields.io/badge/-margarethaolivia41@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:margarethaolivia41@gmail.com)](mailto:margarethaolivia41@gmail.com)
 </p>
